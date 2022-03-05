@@ -1,0 +1,50 @@
+.header{
+    background-color: blue;
+    background-image: url(../img/placa1.jpg);
+}
+
+.header img{
+    height: 120px;
+}
+
+
+
+
+
+
+
+
+.main{
+    background-image: url(../img/mad.jpg);
+    background-size: cover;
+}
+
+
+
+
+.main img{
+   height: 400px; 
+}
+
+
+
+
+
+.Estilo{
+    background-image: url(../img/mad2.jpg);
+    background-size: cover;
+
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,1 @@
+<h1>Este es el menu de novedades</h1>
